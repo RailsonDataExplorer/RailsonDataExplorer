@@ -1,13 +1,13 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Welcome to my world of endless curiosity and passion for learning! 🚀
+</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
-
+  Hi 👋, I'm Railson! "In pursuit of knowledge that turns data into discoveries, and insights into innovation: diving headfirst into data science!"
   - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
