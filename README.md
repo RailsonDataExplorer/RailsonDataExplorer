@@ -1,16 +1,16 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">! 🚀
-</h1></summary>
-</div>
+<!-- Título -->
+<h1 align="center">Welcome to RailsonDataExplorer's Space! 🚀</h1>
 
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Railson! "In pursuit of knowledge that turns data into discoveries, and insights into innovation: diving headfirst into data science!"
-  - 🌱 I’m currently studying Data Science <img align="center" alt="html5" />
+<!-- GIF -->
+<p align="center">
+  <img align="center" src="https://i.gifer.com/75lD.gif" alt="Imagem animada">
+</p>
 
-  - 🔭 
+<!-- Introdução -->
+<p align="center">
+  <strong>Hi 👋, I'm Railson!</strong><br>
+  "On a journey to transform data into valuable insights, unlocking discoveries that lead to innovation!" 🌱<br>
+  I'm currently diving deep into the fascinating world of Data Science, turning raw data into impactful stories. 📊
 </p>
 
 <!-- Dropdown -->
@@ -23,7 +23,8 @@
 </details>
 
 <!-- Links -->
-
+<!-- GithubStats -->
+![RailsonData GitHub stats](https://github-readme-stats.vercel.app/api?username=RailsonDataExplorer&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
